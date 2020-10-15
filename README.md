@@ -1,0 +1,2 @@
+# SimpleFraction
+Initialisation a GIT
